@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bestmyib
-- 👀 I’m interested in app OS, and mostly just backend development
+- 👀 I’m interested in app, OS, and mostly just backend development
 - 🌱 I’m currently learning c++ and webdev
 - 💞️ I’m looking to collaborate on an interpreter I am currently working on
 - 📫 How to reach me ...
