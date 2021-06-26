@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bestmyib
 - 👀 I’m interested in app, OS, and mostly just backend development
-- 🌱 I’m currently learning c++ and webdev
-- 💞️ I’m looking to collaborate on an interpreter I am currently working on
+- 🌱 I’m currently learning java development
 - 📫 How to reach me ...
 
 <!---
